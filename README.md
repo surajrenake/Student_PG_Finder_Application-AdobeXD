@@ -12,4 +12,6 @@ This is an UI/UX project which was assigned in college, the prototype for the ap
 ![page1](https://github.com/surajrenake/Student_PG_Finder_Application-AdobeXD/assets/77709405/01e6f77b-6cd0-4704-9939-859c2f141a61)
 ![pg2](https://github.com/surajrenake/Student_PG_Finder_Application-AdobeXD/assets/77709405/d2ec15f7-14b6-47e7-a445-b942f5840933)
 
+<b><u>About...
+![about](https://github.com/surajrenake/Student_PG_Finder_Application-AdobeXD/assets/77709405/24b07f7b-1534-4243-aacb-46747943fd4f)
 
